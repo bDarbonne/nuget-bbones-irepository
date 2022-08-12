@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>BBones.Repository.Interfaces</PackageId>
-    <Version>0.0.2</Version>
+    <Version>1.0.0</Version>
     <Authors>Benjamin Darbonne</Authors>
   </PropertyGroup>
 
