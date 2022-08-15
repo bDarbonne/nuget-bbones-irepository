@@ -18,4 +18,4 @@ test:
 	dotnet test
 
 pack:
-	dotnet pack
+	dotnet pack -o .
